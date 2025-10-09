@@ -6,3 +6,5 @@
 job2 can get triggered
 
 ## Attempt 2 Edit
+
+## Running Job 2 with Git Plugins: merge before build and Git Publisher
